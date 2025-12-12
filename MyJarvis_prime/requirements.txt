@@ -1,0 +1,12 @@
+ollama
+SpeechRecognition
+edge-tts
+pygame
+screen_brightness_control
+pyautogui
+pytesseract
+Pillow
+numpy
+customtkinter
+tinydb
+pyaudio
